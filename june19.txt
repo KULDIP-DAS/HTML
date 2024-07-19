@@ -1,0 +1,18 @@
+what is HTML?
+Ans=   HTML stands for Hyper Text Markup Language.
+       HTML is the standard markup language for creating Web pages
+
+
+what are the features of HTML?
+Ans=    HTML describes the structure of a Web page.
+        It consists of a series of elements.
+        HTML elements tell the browser how to display the content
+
+
+What is the MIME ?
+Ans = MIME stands for Multipurpose Internet Mail Extensions it takes care of transferring different kinds of datas through electronic mail service FTP.
+
+
+
+What are Void ELemnts in HTML?
+Ans = A void element is an element in HTML that cannot have any child nodes (i.e., nested elements or text nodes). Void elements only have a start tag; end tags must not be specified for void elements. 
